@@ -20,6 +20,6 @@
   "homepage": "https://github.com/okaxaki/pegjs-strip",
   "license": "ISC",
   "dependencies": {
-    "node-getopt": "^0.2.3"
+    "node-getopt": "^0.2.4"
   }
 }
